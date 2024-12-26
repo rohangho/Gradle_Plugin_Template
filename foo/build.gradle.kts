@@ -1,3 +1,3 @@
-
-tasks.create("example"){
+plugins{
+    id("com.example.rohan")
 }
